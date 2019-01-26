@@ -9,7 +9,7 @@ namespace Projeto_teste {
         static void Main(string[] args) {
 
             Console.WriteLine("Olá mundo!");
-
+            Console.WriteLine("This is a fucking simple software read to be commited!");
             Console.ReadLine();
         }
     }
